@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="currencies">EUR,USD,RUB,BRL</string>
+
+    <string name="enter_amount_placeholder">Введите количество</string>
+    <string name="convert_to">Конвертировать в</string>
+    <string name="converting_wait">Конвертируем, пожалуйста подождите...</string>
+
+    <string name="convert_button">Конвертировать</string>
+    <string name="button_back">Назад</string>
+
+    <string name="enter_amount">Пожалуйста, введите количество</string>
+</resources>

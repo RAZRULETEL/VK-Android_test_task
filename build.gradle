@@ -1,0 +1,11 @@
+buildscript {
+    ext.kotlin_version = "1.8.20"
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath libs.gradle
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
